@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-2nd-year Computer science student, experienced Quality Insurance specialist in Accessibility audit (WCAG) and user acceptance testing. Able to adapt and overcome technical and analytical challenges thanks to my knowledge of programming, math, and business administration. Highly interested in computer science and new technologies.
-
